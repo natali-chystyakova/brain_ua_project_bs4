@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class BaseConfig(AppConfig):
+class ParserAppConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "apps.base"
+    name = "parser_app"

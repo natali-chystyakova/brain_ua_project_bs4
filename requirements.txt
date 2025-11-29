@@ -26,7 +26,7 @@ django==4.2.0
 Pillow==9.5.0
 
 #For forns
-crispy-bootstrap5==0.7
+#crispy-bootstrap5==0.7
 
 #For enviromment variables and configuration
 django-environ==0.10.0
@@ -34,3 +34,14 @@ django-environ==0.10.0
 # For PostgreSQL.
 psycopg2-binary==2.9.6
 
+#for Requests + BS4
+beautifulsoup4==4.12.2
+lxml>=4.9.3
+
+
+# For Optional but helpful
+fake-useragent==2.2.0
+tenacity==9.1.2
+
+loguru==0.7.3
+pandas==2.3.3

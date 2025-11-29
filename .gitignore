@@ -133,8 +133,8 @@ dmypy.json
 #db/*
 #!db/.gitkeep
 
-media/*
-!media/.gitkeep
+files/*
+!files/.gitkeep
 
 
 docker-compose.override.yml
