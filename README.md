@@ -1,6 +1,7 @@
-**Basic project on the Django framework**
+**brain_ua_project_bs4 on the Django framework**
 ---
-* Django reference project to start development of other projects.*
+* This project parses the website brain.com.ua *
+* For parsing, dependencies of requests and beautifulsoup4 are used
 ---
 
 
@@ -15,5 +16,6 @@
 * :dizzy: migrate: make migrate
 * :woman: create superuser: make init-dev-i-create-superuser
 * :anger: kill-by-port: make util-i-kill-by-port
+* parsing command: make parse
 
 

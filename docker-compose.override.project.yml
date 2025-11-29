@@ -4,7 +4,7 @@ version: '3.8'
 services:
   app:
     volumes:
-      - ./media:/wd/media:rw
+      - ./files:/wd/files:rw
     ports:
       - "8000:8000"
     user: "1000"
